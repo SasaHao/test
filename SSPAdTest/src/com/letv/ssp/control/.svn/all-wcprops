@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/213833/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/control
+END
+SSPAdPageControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/213656/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/control/SSPAdPageControl.java
+END
+DSPAdPageControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/213833/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/control/DSPAdPageControl.java
+END
+LoginPageControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/213526/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/control/LoginPageControl.java
+END

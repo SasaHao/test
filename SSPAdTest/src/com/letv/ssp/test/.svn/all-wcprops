@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/213833/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/test
+END
+FeedSSPAdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/213833/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/test/FeedSSPAdTest.java
+END
+LecloudSSPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/213656/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/test/LecloudSSPTest.java
+END
+StoreSSPAdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/213656/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/test/StoreSSPAdTest.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/213833/tp/ark/testing/internal/test-auto/aps/SSPAdTest/src/com/letv/ssp/test/BaseTest.java
+END

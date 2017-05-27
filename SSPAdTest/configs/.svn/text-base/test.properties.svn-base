@@ -1,0 +1,30 @@
+﻿#SSP系统    test019@test.com用户信息  新建媒体  新建业务线   新建广告位   新建投放策略
+sspuser_username=test017@test.com
+sspuser_password=123456
+#SSP系统    142用户  审核业务线   
+sspmanager_username=142
+sspmanager_password=123456
+#Lecloud管理员    新建广告位
+cloudmanager_username=cloudManager@le.com
+cloudmanager_password=123456
+#应用商店管理员    评级、新建应用商店广告位
+store_username=haoxiaosha1528@126.com
+store_password=123456
+#应用商店企业广告主新建广告计划
+storeadplan_username=18811179373
+storeadplan_password=123456q
+#应用商店企业广告主新建广告计划地址
+store_baseUrl=http://10.154.156.78:8080/nfa/store
+#SSP 浏览器地址
+ssp_baseurl=http://10.118.28.53:8080/ssp/media/list
+#云视频  浏览器地址及taken登录
+cloud_baseUrl=http://10.154.156.78:8080/nfa
+token_baseUrl=http://10.154.156.78:8080/nfa/auth/cloudSignIn?email=test017@test.com&t=c8744df8a6b42cd7b6e333d9515b3da3
+#终端选择         （终端可做成另外一个配置文件）
+platform=移动Android端-Phone
+#广告服务系统
+ssp_adserviceSystem=lecloud
+#广告类型   页面   前贴   中贴   后贴   暂停   横幅   焦点图   应用推荐   信息流
+ssp_adzonetype=应用推荐 
+#验证广告是否展示
+adTest=http://10.118.28.53:28080/ss?sspid=544&slotid=2446&res=xml&playid=1483411622&dbg=1&uip=10.73.133.20

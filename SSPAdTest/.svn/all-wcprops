@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/213833/tp/ark/testing/internal/test-auto/aps/SSPAdTest
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/207336/tp/ark/testing/internal/test-auto/aps/SSPAdTest/testng.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/207336/tp/ark/testing/internal/test-auto/aps/SSPAdTest/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/207336/tp/ark/testing/internal/test-auto/aps/SSPAdTest/.classpath
+END
