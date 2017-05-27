@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Api Name="Media_Add">
+    <Uri>/media/add</Uri>
+    <Description>新增媒体</Description>
+    <Method>post</Method>
+    <Parameters>
+        <Param Name="name">乐视网</Param>
+        <Param Name="url">http://www.letv.com</Param>
+    </Parameters>
+	<Response Name="error">
+	    <Res Name="xpth 路径 指定某个节点">节点的值</Res>
+	</Response>
+</Api>

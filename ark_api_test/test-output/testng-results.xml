@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ark_api_test" duration-ms="187" started-at="2017-05-17T14:40:25Z" finished-at="2017-05-17T14:40:26Z">
+    <groups>
+    </groups>
+    <test name="TestMethods" duration-ms="187" started-at="2017-05-17T14:40:25Z" finished-at="2017-05-17T14:40:26Z">
+      <class name="com.letv.ark.test.AutoTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.letv.ark.test.AutoTest@4f4a7090]" name="beforeSuite" is-config="true" duration-ms="7" started-at="2017-05-17T14:40:25Z" finished-at="2017-05-17T14:40:25Z">
+        </test-method> <!-- beforeSuite -->
+        <test-method status="FAIL" signature="test()[pri:0, instance:com.letv.ark.test.AutoTest@4f4a7090]" name="test" duration-ms="117" started-at="2017-05-17T14:40:25Z" description="测试用例" finished-at="2017-05-17T14:40:25Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[测试用例:Media_Add.xml运行报错,报错信息为：=:null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 测试用例:Media_Add.xml运行报错,报错信息为：=:null
+	at org.testng.Assert.fail(Assert.java:89)
+	at com.letv.ark.test.AutoTest.test(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:87)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1188)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1113)
+	at org.testng.TestNG.run(TestNG.java:1025)
+	at org.testng.TestNG.privateMain(TestNG.java:1328)
+	at org.testng.TestNG.main(TestNG.java:1297)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+        </test-method> <!-- test -->
+        <test-method status="FAIL" signature="test()[pri:0, instance:com.letv.ark.test.AutoTest@52d455b8]" name="test" duration-ms="9" started-at="2017-05-17T14:40:25Z" description="测试用例" finished-at="2017-05-17T14:40:25Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[测试用例:Login.xml运行报错,报错信息为：=:null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 测试用例:Login.xml运行报错,报错信息为：=:null
+	at org.testng.Assert.fail(Assert.java:89)
+	at com.letv.ark.test.AutoTest.test(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:87)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1188)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1113)
+	at org.testng.TestNG.run(TestNG.java:1025)
+	at org.testng.TestNG.privateMain(TestNG.java:1328)
+	at org.testng.TestNG.main(TestNG.java:1297)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.letv.ark.test.AutoTest@4f4a7090]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-05-17T14:40:26Z" finished-at="2017-05-17T14:40:26Z">
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.letv.ark.test.AutoTest -->
+    </test> <!-- TestMethods -->
+  </suite> <!-- ark_api_test -->
+</testng-results>

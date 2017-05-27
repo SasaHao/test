@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="mail" name="ark_api_test">
+
+	<!-- property 定义全局变量 -->
+	<property name="testng.file" value="testng.xml" />
+	<property name="src.dir" value="src" />
+	<property name="class.dir" value="build/class" />
+	<property name="lib.dir" value="build/lib" />
+	<property name="report.dir" value="test-output" />
+	<property name="report_rar.dir" value="report_rar" />
+	<property name="testngoutput.dir" value="test-output" />
+	<taskdef resource="testngtasks" classpath="${lib.dir}/testng-6.5.1.jar" />
+
+	<!-- 定义classpath -->
+	<path id="Test-classpath">
+		<fileset file="${lib.dir}/*.jar" />
+		<pathelement path="${class.dir}" />
+	</path>
+
+	<!-- 定义classpath -->
+	<path id="classes">
+		<pathelement path="${class.dir}" />
+	</path>
+
+	<!-- 初始化 -->
+	<target name="init">
+		<!-- 删除之前产生的目录 -->
+		<delete dir="${report.dir}" failonerror="false" />
+		<delete dir="${class.dir}" failonerror="false" />
+		<!-- 创建新目录 -->
+		<mkdir dir="${class.dir}" />
+		<mkdir dir="${report.dir}" />
+	</target>
+
+	<!-- 编译 -->
+	<target name="compiles" depends="init" description="compile the source files">
+		<javac srcdir="${src.dir}" destdir="${class.dir}" classpathref="classes"
+			includeantruntime="on">
+		<!--	 <compilerarg line="-encoding GBK "/> -->
+			<compilerarg line="-encoding UTF-8 " />
+			<classpath refid="Test-classpath" />
+		</javac>
+	</target>
+
+	<!-- 运行测试 -->
+	<target name="regression" depends="compiles">
+	   
+		<testng outputdir="${testngoutput.dir}" classpathref="classes"
+			delegateCommandSystemProperties="true">
+			<classpath refid="Test-classpath" />
+			<xmlfileset dir="${basedir}" includes="${testng.file}" />
+			<jvmarg value="-Dfile.encoding=UTF-8"/> 
+		</testng>
+	</target>
+
+	<!-- report转换样式 -->
+	<target name="transform" depends="regression">
+		<xslt in="${basedir}/test-output/testng-results.xml" style="${basedir}/situation/testng-results.xsl"
+			out="${basedir}/test-output/LeEcoAutoTset-ads-Results.html">
+			<param name="testNgXslt.outputDir" expression="${basedir}/test-output/" />
+			<classpath refid="Test-classpath" />
+		</xslt>
+	</target>
+
+
+	<!-- 压缩report文件 -->
+	<target name="reportzip" depends="transform">
+		<tstamp>
+			<format property="date" pattern="yyyy-MM-dd HH-mm" />
+		</tstamp>
+		<jar destfile="${report_rar.dir}/ark-api-report_${date}.rar">
+			<fileset dir="${testngoutput.dir}">
+				<include name="**/*.*" />
+			</fileset>
+		</jar>
+	</target>
+
+	<!--发送邮件报告    users=[['smtp.letv.cn','arksystem','ark0901.com','arksystem@letv.com']]-->
+	
+	<target name="mail" depends="reportzip" description="send the report from email">
+		<mail mailhost="smtp.letv.cn" mailport="25" subject="新方舟业务系统_接口测试报告"
+			messagemimetype="text/html" 
+			messageFile="test-output/overview.html"
+			user="arksystem" 
+			password="ark0901.com"> 
+			<from address="arksystem@letv.com" />
+			
+			<!-- 收件人 -->
+		
+			<to address="haoxiaosha@le.com" />	
+		
+			
+			<fileset dir="${report_rar.dir}">
+				<include name="ark-api-report_${date}.rar" />
+			</fileset>
+		</mail>
+	</target>
+
+</project>
+		

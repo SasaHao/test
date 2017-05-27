@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ark_api_test]" allow-return-values="true">
+  <test name="TestMethods(failed)" preserve-order="true">
+    <classes>
+      <class name="com.letv.ark.test.AutoTest">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="test"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.letv.ark.test.AutoTest -->
+    </classes>
+  </test> <!-- TestMethods(failed) -->
+</suite> <!-- Failed suite [ark_api_test] -->

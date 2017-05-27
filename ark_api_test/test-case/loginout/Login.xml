@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Api Name="Login">
+    <Uri>/login/auth</Uri>
+    <Method>post</Method>
+    <Description>登录接口</Description>
+    <Parameters>
+        <Param Name="name">test001</Param>
+        <Param Name="password">123456</Param>
+    </Parameters>
+	<Response Name="success">
+	    <Res Name="xpth 路径 指定某个节点">节点的值</Res>
+	</Response>
+</Api>
