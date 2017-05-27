@@ -1,0 +1,5 @@
+{"caseName":"[public-tcl-006]TCL-欢网广告接入方舟006","freq":"0","rotation":"0","total":"0",
+"params":"ark=1&vid=&res=xml&n=1&ct=0&j=LETV.Plugin.AD.resoJsonp&t=1460342690024&sid=&b=&v=TV_5.0&cuid=d83077ce62064fd68b1a4675b18cb46d&did=&offline=0&vvid=50D9DBC77804509D266657C96088C37F1F2832B1_0&uid=&moi=&im=ce1dp15c84bf1l4b63977fid448b5b6y10a8&dev=&pcode=&sn=&id=&mac=ACFFAF8FJ9&adid=",
+"redis":{"hset":{"tcl_ark_transfer":"ACFFAF8FJ9=3"}},
+"cases":[{"/VAST/@ark":"3","/VAST/Ad[1]/@order_item_id":""}
+]}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="build/lib/activation.jar"/>
+	<classpathentry kind="lib" path="build/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="build/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="build/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="build/lib/json-lib-2.2.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/mail.jar"/>
+	<classpathentry kind="lib" path="build/lib/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="build/lib/testng-6.5.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="build/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="build/lib/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="build/lib/ganymed-ssh2.jar"/>
+	<classpathentry kind="lib" path="build/lib/ganymed-ssh2-build210.jar"/>
+	<classpathentry kind="lib" path="build/lib/jedis-2.7.0.jar"/>
+	<classpathentry kind="lib" path="build/lib/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="build/lib/java_memcached-release_2.6.6.jar"/>
+	<classpathentry kind="lib" path="build/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="build/lib/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="lib" path="build/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

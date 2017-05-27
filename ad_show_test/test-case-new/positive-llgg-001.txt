@@ -1,0 +1,16 @@
+{
+    "caseName": "[positive-llgg-001]离线广告定向投放频道",
+    "freq": "0",
+    "rotation": "0",
+    "total": "0",
+    "params": "ark=1&vid=1&res=xml&n=1&ct=2&j=&cis=&t=&sid=&b=&cuid=&did=&vvid=&uid=&imei=&sn=&im=&dev=&pcode=&id=&mac=&adid=&ry=&nv=&bm=&ptid=&zone=&cp=&vd=&p=&uip=&pv=&hs=&cd=&dtype=&adflag=&sdkv=&lb_uuid=&lon=&lat=&make=&os=&osv=&net=&w=&h=&cid=1&v=TV_&type=16&pkg=&offline=1",
+    "cases": [
+        {
+            "/VAST/Ad[1]/@order_item_id": "1",
+            "/VAST/Ad[2]/@order_item_id": "2",
+            "/VAST/Ad[3]/@order_item_id": "3",
+            "/VAST/Ad[4]/@order_item_id": "4",
+            "/VAST/Ad[10]/@order_item_id": "10"
+        }
+    ]
+}

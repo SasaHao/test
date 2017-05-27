@@ -1,0 +1,14 @@
+{
+    "caseName": "public-model-012",
+    "freq": "0",
+    "rotation": "0",
+    "total": "0",
+    "params": "ark=1&ct=2&n=1&res=xml&v=TV_5.0&did=7b4868610adeb9da&offline=0&vid=1&dev=C1B",
+    "cases": [
+        {
+           "/VAST/Ad[1]/@order_item_id": "1",
+           "/VAST/Ad[2]/@order_item_id": "2",
+           "/VAST/Ad[3]/@order_item_id": "3"
+        }
+    ]
+}

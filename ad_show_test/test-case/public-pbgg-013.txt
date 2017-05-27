@@ -1,0 +1,5 @@
+{"caseName":"[public-pbgg-013]屏保广告013","freq":"2","order_item_id":"1","rotation":"0","total":"0",
+"params":"p=2&ark=1&ct=8&n=1&res=xml&cuid=d053ae95fe3fecfd15ed1c2dbe521055&v=TV_5.0&did=7b4868610adeb9da&offline=0&vid=1",
+"cases":[{"order_item_id":"1","/VAST/Ad[1]/@order_item_id":"1","/VAST/Policy/CuePoint/@id":"1"},
+{"order_item_id":"2","/VAST/Ad[@order_item_id='2']/@id":"2","/VAST/Policy/CuePoint/@id":"1"}
+]}

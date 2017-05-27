@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/164392/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util
+END
+TestngFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/214054/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/TestngFactory.java
+END
+RedisUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/157945/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/RedisUtil.java
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/154203/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/ConfigManager.java
+END
+MemCachedUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/158173/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/MemCachedUtil.java
+END
+AdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/162731/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/AdTest.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/214054/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/Constant.java
+END
+FileTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/214054/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/FileTool.java
+END
+CommandTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/163011/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/CommandTool.java
+END
+BaseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/214044/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/BaseCase.java
+END
+AutoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/214036/tp/ark/testing/internal/test-auto/aes/ad_show_test/src/com/letv/ads/util/AutoTest.java
+END

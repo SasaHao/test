@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/154600/tp/ark/testing/internal/test-auto/aes/ad_show_test/shell
+END
+sendMail.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/154580/tp/ark/testing/internal/test-auto/aes/ad_show_test/shell/sendMail.py
+END
+update_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/154600/tp/ark/testing/internal/test-auto/aes/ad_show_test/shell/update_server.sh
+END
+scp_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/154600/tp/ark/testing/internal/test-auto/aes/ad_show_test/shell/scp_data.sh
+END

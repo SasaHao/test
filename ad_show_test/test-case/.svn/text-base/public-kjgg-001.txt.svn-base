@@ -1,0 +1,4 @@
+{"caseName":"[public-kjgg-001]开机广告001","freq":"0","rotation":"0","total":"0",
+"params":"ark=1&ct=9&n=1&res=xml&v=TV_5.0&did=7b4868610adeb9da&offline=0",
+"cases":[{"/VAST/Ad[1]/@order_item_id":"1","/VAST/Ad[1]/@cuepoint_id":"1"}
+]}

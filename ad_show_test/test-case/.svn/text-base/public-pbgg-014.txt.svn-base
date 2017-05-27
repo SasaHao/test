@@ -1,0 +1,4 @@
+{"caseName":"[public-pbgg-014]屏保广告014","freq":"0","rotation":"0","total":"0",
+"params":"p=2&ark=1&ct=8&n=1&res=xml&v=TV_5.0&did=7b4868610adeb9da&offline=0&vid=1",
+"cases":[{"/VAST/Ad[1]/@order_item_id":"1"}
+]}

@@ -1,0 +1,13 @@
+{
+    "caseName": "public-sbdx-006",
+    "freq": "0",
+    "order_item_id": "0",
+    "rotation": "0",
+    "total": "0",
+    "params": "p=2&ark=1&ct=2&n=1&res=xml&v=TV_5.0&did=7b4868610adeb9da&offline=0&dev=102&vid=1",
+    "cases": [
+        {
+            "/VAST/Ad[@id='1']/@order_item_id": "1"
+        }
+    ]
+}

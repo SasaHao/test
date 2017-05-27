@@ -1,0 +1,5 @@
+{"caseName":"[public-kjgg-012]开机广告012","freq":"0","rotation":"0","total":"0",
+"params":"ark=1&ct=9&n=1&res=xml&cuid=d053ae95fe3fecfd15ed1c2dbe521055&v=TV_5.0&did=7b4868610adeb9da&offline=0&vid=1",
+"memcached":{"set":{"d053ae95fe3fecfd15ed1c2dbe521055.label":"[1]"}},
+"cases":[{"/VAST/Ad[1]/@order_item_id":"1","/VAST/Policy/CuePoint/@id":"1"}
+]}

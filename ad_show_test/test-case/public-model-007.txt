@@ -1,0 +1,11 @@
+{
+    "caseName": "public-model-007",
+    "freq": "0",
+    "rotation": "0",
+    "total": "0",
+    "params": "ark=1&ct=2&n=1&res=xml&v=TV_5.0&did=7b4868610adeb9da&offline=0&vid=1&dev=C1S",
+    "cases": [
+        {
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{"caseName":"[public-dtsc-016]短视频广告时长动态配置016","freq":"0","rotation":"0","total":"0",
+"params":"ark=1&vid=1&ct=2&n=1&res=xml",
+"cases":[{"/VAST/Ad[1]/@order_item_id":"1","/VAST/Policy/CuePoint[1]/@duration":"15"}]
+}

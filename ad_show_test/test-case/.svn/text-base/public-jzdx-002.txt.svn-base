@@ -1,0 +1,4 @@
+{"caseName":"[public-jzdx-002]精准定向002","freq":"0","rotation":"0","total":"0",
+"params":"ark=1&vid=1&ct=2&n=1&res=xml&vvid=6666667f8b8ce4040bac9b23dff63c67",
+"cases":[{"/VAST/Ad[1]/@order_item_id":"1"}
+]}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/164527/tp/ark/testing/internal/test-auto/aes/ad_show_test
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/156574/tp/ark/testing/internal/test-auto/aes/ad_show_test/testng.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/214049/tp/ark/testing/internal/test-auto/aes/ad_show_test/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/154203/tp/ark/testing/internal/test-auto/aes/ad_show_test/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/158173/tp/ark/testing/internal/test-auto/aes/ad_show_test/.classpath
+END

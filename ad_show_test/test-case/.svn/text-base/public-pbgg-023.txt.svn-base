@@ -1,0 +1,4 @@
+{"caseName":"public-pbgg-023屏蔽广告5轮播","freq":"0","order_item_id":"0","rotation":"5","total":"2",
+"params":"ark=1&ct=8&n=1&res=xml&v=TV_5.0&did=7b4868610adeb9da&offline=0&vid=1",
+"cases":[{"order_item_id":"1","/VAST/@area_id":"1111111111","/VAST/@member":"0","/VAST/Ad[@order_item_id='1']/@id":"1","/VAST/Policy/CuePoint/@id":"1"}
+]}

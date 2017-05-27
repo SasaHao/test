@@ -1,0 +1,6 @@
+{"caseName":"[public-ydddl-003]-移动端导流003","freq":"0","rotation":"0","total":"0",
+"params":"ark=1&ct=2&n=0&res=xml&cuid=3a4ab747cf1e86f88e4b3759d8027893&vvid=3a4ab747cf1e86f88e4b3759d8027893_1463389641943&v=android_6000&did=44da0c1f7024cb36&vid=1&offline=0&t=1445994856&pcode=010110944",
+"redis":{"set":{"switch.pcode.key":"1"},"hset":{"vsphash":"010110944=604800"}},
+"memcached":{"set":{"3a4ab747cf1e86f88e4b3759d8027893.v":"1463463449531"}},
+"cases":[{"/VAST/@code":"110005","/VAST/Ad[1]/@order_item_id":""}
+]}

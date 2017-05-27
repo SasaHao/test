@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ad-show-test" allow-return-values="true">
+
+	 <test verbose="2" name="TestMethods">  
+        <classes>  
+            <class name="com.letv.ads.util.TestngFactory">  
+            </class>  
+        </classes>  
+    </test>
+
+</suite> 
