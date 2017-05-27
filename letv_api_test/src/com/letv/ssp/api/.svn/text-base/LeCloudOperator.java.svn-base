@@ -1,0 +1,25 @@
+package com.letv.ssp.api;
+
+import org.testng.annotations.Test;
+
+import com.letv.util.BaseCase;
+
+/**
+ * 乐视云同步用户接口
+ *
+ */
+public class LeCloudOperator extends BaseCase{
+	@Test(description="乐视云同步用户接口_新增[lecloudOperator.update]")
+	public void test_operator_add(){
+		http_param.put("lecloudUid", "123");
+		http_param.put("name", getRandomStr(5));
+		http_param.put("mail", "zhangsan@le.com");  //用户邮箱
+		http_param.put("mobile", "13987653343");  //用户联系方式
+		http_param.put("www.letv.com", "123");   //媒体url
+	//	http_param.put("token", "");    //用于验证
+		
+		//发送请求，调用接口
+		getJsonResp("lecloudOperator/update",http_param);
+		
+	}
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1073" started-at="2016-12-13T07:09:15Z" finished-at="2016-12-13T07:09:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1073" started-at="2016-12-13T07:09:15Z" finished-at="2016-12-13T07:09:16Z">
+      <class name="com.letv.ssp.api.LeCloudOperator">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.letv.ssp.api.LeCloudOperator@140d59d0]" name="setUpBeforeClass" is-config="true" duration-ms="14" started-at="2016-12-13T15:09:15Z" finished-at="2016-12-13T15:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.letv.ssp.api.LeCloudOperator@140d59d0]" name="setUp" is-config="true" duration-ms="0" started-at="2016-12-13T15:09:15Z" finished-at="2016-12-13T15:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_operator_add()[pri:0, instance:com.letv.ssp.api.LeCloudOperator@140d59d0]" name="test_operator_add" duration-ms="1042" started-at="2016-12-13T15:09:15Z" description="乐视云同步用户接口_新增[lecloudOperator.update]" finished-at="2016-12-13T15:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_operator_add -->
+        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:com.letv.ssp.api.LeCloudOperator@140d59d0]" name="tearDownAfterClass" is-config="true" duration-ms="0" started-at="2016-12-13T15:09:16Z" finished-at="2016-12-13T15:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.letv.ssp.api.LeCloudOperator@140d59d0]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-12-13T15:09:16Z" finished-at="2016-12-13T15:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.letv.ssp.api.LeCloudOperator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

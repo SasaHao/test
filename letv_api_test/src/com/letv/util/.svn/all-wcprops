@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/198279/tp/ark/testing/internal/test-auto/ssp/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/letv_api_test/src/com/letv/util
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/198279/tp/ark/testing/internal/test-auto/ssp/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/letv_api_test/src/com/letv/util/ConfigManager.java
+END
+HttpClientUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/198279/tp/ark/testing/internal/test-auto/ssp/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/letv_api_test/src/com/letv/util/HttpClientUtil.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/198279/tp/ark/testing/internal/test-auto/ssp/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/letv_api_test/src/com/letv/util/Constant.java
+END
+ParamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/198279/tp/ark/testing/internal/test-auto/ssp/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/letv_api_test/src/com/letv/util/ParamUtils.java
+END
+BaseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/198279/tp/ark/testing/internal/test-auto/ssp/%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95/letv_api_test/src/com/letv/util/BaseCase.java
+END

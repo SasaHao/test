@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2601" started-at="2017-03-21T09:31:37Z" finished-at="2017-03-21T09:31:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2601" started-at="2017-03-21T09:31:37Z" finished-at="2017-03-21T09:31:40Z">
+      <class name="com.letv.ssp.api.LeCloudBiz_APP">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.letv.ssp.api.LeCloudBiz_APP@357a2d32]" name="setUpBeforeClass" is-config="true" duration-ms="24" started-at="2017-03-21T17:31:37Z" finished-at="2017-03-21T17:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="test_biz()[pri:0, instance:com.letv.ssp.api.LeCloudBiz_APP@357a2d32]" name="test_biz" duration-ms="2555" started-at="2017-03-21T17:31:37Z" description="乐视云同步业务线接口[lecloudBiz/update]" finished-at="2017-03-21T17:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_biz -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.letv.ssp.api.LeCloudBiz_APP@357a2d32]" name="setUp" is-config="true" duration-ms="0" started-at="2017-03-21T17:31:37Z" finished-at="2017-03-21T17:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:com.letv.ssp.api.LeCloudBiz_APP@357a2d32]" name="tearDownAfterClass" is-config="true" duration-ms="0" started-at="2017-03-21T17:31:40Z" finished-at="2017-03-21T17:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.letv.ssp.api.LeCloudBiz_APP@357a2d32]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-03-21T17:31:40Z" finished-at="2017-03-21T17:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.letv.ssp.api.LeCloudBiz_APP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
