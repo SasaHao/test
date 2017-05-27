@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ios_ad_suite">
+	<test verbose="3" name="ios_ad_test" preserve-order="true">
+		<classes>
+			<!-- 1 开机广告 -->
+<!-- 			<class name="com.leeco.ios.test.StartAdTest" />   -->
+			<!-- 2 专题页广告 -->
+<!-- 			<class name="com.leeco.ios.test.TopicAdTest" />   -->
+			<!-- 3 播放广告 -->
+<!-- 			<class name="com.leeco.ios.test.PlayAdTest" />   -->
+			<!-- 4 播放器广告(点击) -->
+<!-- 			<class name="com.leeco.ios.test.PlayAdTest2" />   -->
+
+			<!-- 测试崩溃的3个用例 -->
+			<class name="com.leeco.ios.crash.test.CrashTest" />
+		</classes>
+	</test>
+</suite> 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ios_ad_suite" duration-ms="49" started-at="2016-12-01T17:41:15Z" finished-at="2016-12-01T17:41:15Z">
+    <groups>
+    </groups>
+    <test name="ios_ad_test" duration-ms="49" started-at="2016-12-01T17:41:15Z" finished-at="2016-12-01T17:41:15Z">
+    </test> <!-- ios_ad_test -->
+  </suite> <!-- ios_ad_suite -->
+</testng-results>

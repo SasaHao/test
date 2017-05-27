@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/171131/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/logs/clientlog
+END
+debug.log
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/171131/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/logs/clientlog/debug.log
+END
+error.log
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/171131/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/logs/clientlog/error.log
+END

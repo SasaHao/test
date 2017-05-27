@@ -1,0 +1,39 @@
+#mac ip
+mac_ip=10.73.136.198
+
+#appium parameters  
+#iphone 5s
+deviceName=Phone
+bundleId=com.letv.iphone.client
+#白色手机
+#udid=6a582bbcf6c5a92497c53abc49d2c74a7f1abd13
+#黑色手机
+udid=10e1fada8457217f5b72108f9a7be8845e7b8887
+platformVersion=9.3.5
+#sasa'6s
+#udid=d6495451f2125f0cd41a07166042237d4c5e54d9
+#platformVersion=9.3.2
+
+#play tv series name
+#tv_name=火线三兄弟
+tv_name=古剑奇谭
+tv_name1=红高粱
+
+#preroll & midroll ad time, seconds
+prerollAdTime=45
+midrollAdTime=30
+
+# 3min show up midroll ad,  seconds
+midrollAdShow=180
+
+#account number
+username=13671035306
+password=123654
+log4jConfigPath=D:\\workspace\\ad_autotest_ios\\resources\\log4j.properties
+
+
+#fiddler tracking log filepath
+fiddlerLogFile=D:\\temp\\autoTest.txt
+#protobuf=1 play response
+playResponseFile=D:\\temp\\playResponse.txt
+

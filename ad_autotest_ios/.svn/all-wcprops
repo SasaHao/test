@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/186240/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/194810/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/testng.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/196931/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/171131/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/171373/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/.classpath
+END

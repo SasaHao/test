@@ -1,0 +1,7 @@
+2016-06-21 18:13:41  [ main:166746 ] - [ INFO ]  com.leeco.ios.test.PlayAdTest2---播放器广告_角标---开始
+2016-06-21 18:13:41  [ main:166746 ] - [ INFO ]  com.leeco.ios.test.PlayAdTest2---切换至全屏观看
+2016-06-21 18:13:46  [ main:171518 ] - [ INFO ]  com.leeco.ios.test.PlayAdTest2---判断是否出现角标广告
+2016-06-21 18:14:14  [ main:200292 ] - [ INFO ]  com.leeco.ios.test.PlayAdTest2---角标广告展示正常！
+2016-06-21 18:14:14  [ main:200293 ] - [ INFO ]  com.leeco.ios.test.PlayAdTest2---点击角标广告，查看广告详细信息
+2016-06-21 18:14:16  [ main:201579 ] - [ INFO ]  com.leeco.ios.test.PlayAdTest2---测试后，将fiddler log存放到特定文件，作为历史数据存储
+2016-06-21 18:14:16  [ main:202284 ] - [ INFO ]  com.leeco.ios.test.PlayAdTest2---****************本次测试结束***********************

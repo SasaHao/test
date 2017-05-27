@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/183532/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/src/com/leeco/ios/util
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/171131/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/src/com/leeco/ios/util/ConfigManager.java
+END
+AdMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/171662/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/src/com/leeco/ios/util/AdMonitor.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/183532/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/src/com/leeco/ios/util/Constant.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/171131/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/src/com/leeco/ios/util/Log.java
+END
+BaseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/194802/tp/ark/testing/internal/test-auto/aps/ad_autotest_ios/src/com/leeco/ios/util/BaseCase.java
+END

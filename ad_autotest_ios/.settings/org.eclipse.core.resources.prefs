@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//resources/log4j.properties=UTF-8
+encoding//resources/test.properties=UTF-8
+encoding//src/com/leeco/ios/crash/test/CrashTest.java=UTF-8
+encoding//src/com/leeco/ios/test/PlayAdTest.java=UTF-8
+encoding//src/com/leeco/ios/test/PlayAdTest2.java=UTF-8
+encoding//src/com/leeco/ios/test/StartAdTest.java=UTF-8
+encoding//src/com/leeco/ios/test/StartFocusAdTest.java=UTF-8
+encoding//src/com/leeco/ios/test/TopicAdTest.java=UTF-8
+encoding//src/com/leeco/ios/util/Log.java=UTF-8
+encoding/<project>=UTF-8
